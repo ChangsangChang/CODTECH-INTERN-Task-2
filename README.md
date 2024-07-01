@@ -1,8 +1,18 @@
-# CODTECH-INTERN-Task-2
+# CODTECH-INTERN-Task-2(Credit Card Fraud Detection)
+**NAME**: B CHANGSANG
 
+**ID**: CTO4ML2167
 
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**DOMAIN**: MACHINE LEARNING
+
+**DURATION**: 15th JUNE 20224 TO 15th JULY 2024
+
+**MENTOR**: SRAVANI GOUNI
 
 # PROJECT OVERVIEW
+
 ## INTRODUCTION
 Credit card fraud detection is a critical process aimed at identifying and preventing unauthorized transactions.As digital transactions become more prevalent, the risk of fraud increases, posing significant challenges to financial institutions and consumers. Utilizing advanced technologies such as machine learning and real-time data analysis, fraud detection systems strive to accurately distinguish between legitimate and fraudulent activities. This ensures the security of transactions while minimizing false alarms, thereby maintaining trust in the financial ecosystem.
 
